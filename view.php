@@ -320,7 +320,7 @@ class View {
             </div>
 		</div>
         <div class=\"group\">
-            <h2>Kelompok 4 - DIM</h2>
+            <h1>Group 3 - Introduction to Data and Information System</h1>
             <ul>
                 <li>DIBRA SALSA AGITA (2702500536)</li>
                 <li>DIMAS DWICAHYA (2702496192)</li>

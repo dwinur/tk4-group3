@@ -50,8 +50,8 @@
         }
 
         h1 {
-            color: beige;
-            background-color: saddlebrown;
+            color: #000;
+            background-color: #fedfe2;
             padding: 20px;
             text-align: center;
             border-radius: 10px;
@@ -59,15 +59,15 @@
         }
 
         h2 {
-            color: #333;
-            background-color: #9be683;
+            color: #fff;
+            background-color: #da2a52;
             padding: 10px;
             border-radius: 20px;
         }
 
         h3 {
-            color: #555;
-            background-color: #81ebc7;
+            color: #fff;
+            background-color: #da2a52;
             padding: 10px;
             border-radius: 20px;
         }
@@ -84,11 +84,11 @@
 
         a {
             text-decoration: none;
-            color: #194494;
+            color: #fff;
         }
 
         a:hover {
-            color: #007bff;
+            color: #000;
         }
         
 		.form-container {
@@ -116,7 +116,7 @@
 		}
 
 		.form-submit {
-		    background-color: #4caf50;
+		    background-color: #da2a52;
 		    color: white;
 		    padding: 10px 15px;
 		    border: none;
@@ -128,8 +128,8 @@
 
 		.button-outline-green {
 		  background-color: transparent; 
-		  color: #4CAF50; 
-		  border: 2px solid #4CAF50; 
+		  color: #da2a52; 
+		  border: 2px solid #da2a52; 
 		  padding: 10px 15px;
 		  cursor: pointer;
 		  text-decoration: none; 
@@ -155,7 +155,7 @@
 		}
 		.group h2{
 		    	text-align: center;
-		        color: saddlebrown;
+		        color: black;
 		}
 		 ul {
 		        list-style-type: none;

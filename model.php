@@ -3,7 +3,7 @@ class Model {
     private $db;
 
     public function __construct() {
-        $this->db = new PDO('mysql:host=localhost;dbname=binus_dim', 'root', '');
+        $this->db = new PDO('mysql:host=localhost;dbname=binus_dim', 'root', 'root');
     }
 
 //------------tabel HakAkses-----------------------------	
