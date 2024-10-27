@@ -66,8 +66,9 @@
         }
 
         h3 {
-            color: #fff;
-            background-color: #da2a52;
+            color: #000;
+            background-color: #fff;
+			border: 1px solid #da2a52;
             padding: 10px;
             border-radius: 20px;
         }
@@ -84,7 +85,7 @@
 
         a {
             text-decoration: none;
-            color: #fff;
+            color: #000;
         }
 
         a:hover {
